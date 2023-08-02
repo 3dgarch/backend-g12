@@ -28,3 +28,18 @@ for nota in notas[:3]: # : -> hasta la posicion 3
 
 for posicion in range(3):
     print(notas[posicion])
+
+
+
+
+
+productos = ['Manzanas','Peras','Naranja','Lima']
+
+busqueda = input('Buscar producto: ')
+
+for producto in productos:
+    if producto == busqueda:
+        print("El producto existe")
+        break
+else:
+    print("No hay stock")
