@@ -1,0 +1,4 @@
+# en gitignore solo podemos colocar archivos o carpetas que no se hayan echo commit
+entorno_prueba/
+
+# ignorar todos los archivos python: *.py
