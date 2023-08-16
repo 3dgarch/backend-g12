@@ -1,0 +1,12 @@
+python - m venv <nombre_entorno>          ->  crea un entorno virtual en la ubicacion de la terminal
+
+source <nombre_entorno>/Scripts/activate  -> levantara el entorno en gitbash(windows)
+source <nombre_entorno>/Scripts/activate  -> levantara el entorno en Mac/Linux
+<nombre_entorno>/Scripts/activate         -> levantara el entorno en powershell o CMD(windows)
+
+pip install flask                         -> instalar libreria flask 
+pip list                                  -> listar librerias 
+pip freeze                                -> lista las librerias pero de una manera mas tecnica
+pip freeze > requirements.txt             -> para guardar lista de librerias en doc.txt
+
+pip install -r requirements.txt           -> instalar todas las librerias declaradas en ese archivo
