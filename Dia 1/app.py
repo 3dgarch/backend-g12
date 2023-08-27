@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from datetime import datetime
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 
 app = Flask(__name__)
@@ -127,6 +127,11 @@ def gestion_usuario(id):
             },404
 
 
+# ejemplo cross_origin
+@app.route('/ejemplo_ruta',methods=['GET'])
+@cross_origin(origins=['http://inkafarma.com','http://inkaframa.pe'])
+def obtenir_clientes():
+    pass
 
     
 
