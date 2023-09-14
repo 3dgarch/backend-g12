@@ -41,5 +41,7 @@ ALTER TABLE vacunatorios MODIFY COLUMN foto CHAR(100) UNIQUE NOT NULL;
 
 -- descripcion de tabla
 DESC clientes;
- 
+
+-- desactivar safe _mode
+set sql_safe_updates=1
 

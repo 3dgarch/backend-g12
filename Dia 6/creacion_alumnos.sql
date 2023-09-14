@@ -1,0 +1,200 @@
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Elizabeth', 'Hayden', 'Williams', 'calderontheresa@hotmail.com', '923215583');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Holly', 'Price', 'Rice', 'cartertracy@gmail.com', '926768307');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Paul', 'Walker', 'Williams', 'david91@hotmail.com', '924556228');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Eric', 'Bird', 'Guzman', 'riceadam@hotmail.com', '959061572');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Melissa', 'Page', 'Hensley', 'cunninghambrianna@gmail.com', '937946425');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Kathleen', 'Gibbs', 'David', 'christopherortiz@gmail.com', '919804000');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('David', 'Miller', 'Thornton', 'carlos57@gmail.com', '971293910');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('William', 'Reynolds', 'Sandoval', 'sharongibson@hotmail.com', '985832510');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Daniel', 'Miller', 'Harrison', 'ykemp@gmail.com', '958951533');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('James', 'Peterson', 'Noble', 'karen44@gmail.com', '916074234');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Bruce', 'Henry', 'Decker', 'allendavid@gmail.com', '927507375');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Christopher', 'Pham', 'Tran', 'emilydavis@hotmail.com', '930889513');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Sherri', 'Duffy', 'Maddox', 'morenocaitlin@yahoo.com', '977209921');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jason', 'Tyler', 'Williams', 'carterapril@hotmail.com', '957342116');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Eric', 'Bowman', 'Solomon', 'robinsonrichard@yahoo.com', '930907945');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jerry', 'Maddox', 'Sexton', 'hannahweaver@yahoo.com', '916823861');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Brandon', 'White', 'Cruz', 'zsmith@hotmail.com', '999337535');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Megan', 'Moreno', 'Jackson', 'jillianflores@hotmail.com', '976556717');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jason', 'Green', 'Acosta', 'bford@hotmail.com', '913703968');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Sherri', 'Reed', 'Perez', 'lopezcolton@hotmail.com', '900596984');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jeffrey', 'Anderson', 'Cruz', 'chelsea12@yahoo.com', '944849155');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Joseph', 'Burch', 'Duarte', 'rebeccagarcia@gmail.com', '902340630');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Patricia', 'Rogers', 'Martin', 'michelle24@gmail.com', '942713085');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Kathryn', 'Guerrero', 'Sullivan', 'smithjohn@gmail.com', '979533382');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Courtney', 'Nguyen', 'Miller', 'martinezjonathan@gmail.com', '911088084');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Stephanie', 'Ballard', 'Martinez', 'douglasjohn@yahoo.com', '941498030');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Ryan', 'Simmons', 'Lopez', 'panderson@gmail.com', '924919153');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Kristen', 'Wells', 'Moreno', 'kboyd@yahoo.com', '964628205');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Michele', 'Cochran', 'Hoffman', 'hillcole@hotmail.com', '981040191');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Eric', 'Jordan', 'Riley', 'millerwillie@hotmail.com', '981528143');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jill', 'Lee', 'Lyons', 'clayton55@yahoo.com', '942518207');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Kyle', 'Guerrero', 'Thornton', 'heatherpearson@hotmail.com', '989103488');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('David', 'Shelton', 'Cruz', 'stephaniehays@gmail.com', '937697134');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Dustin', 'Nichols', 'Callahan', 'lreilly@yahoo.com', '989593982');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Anthony', 'Shepherd', 'Duffy', 'lhenderson@yahoo.com', '902302183');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Joseph', 'Simpson', 'Mitchell', 'bonnie59@yahoo.com', '920014222');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Amanda', 'Harvey', 'Gross', 'sjackson@hotmail.com', '948454672');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Elizabeth', 'King', 'Lewis', 'jgarcia@gmail.com', '955171817');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Mitchell', 'Chambers', 'Ibarra', 'ycook@gmail.com', '982331470');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Joy', 'Gonzales', 'Lynch', 'kevin54@gmail.com', '955223363');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Alexandra', 'Wright', 'Winters', 'holtruben@hotmail.com', '934466016');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Roy', 'Collins', 'Wolf', 'ohanson@hotmail.com', '932356822');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Richard', 'Green', 'Lopez', 'stevenbrewer@yahoo.com', '996841238');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jeff', 'Hernandez', 'Galvan', 'xhopkins@yahoo.com', '990534263');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Joshua', 'Kramer', 'Stephens', 'brianna17@yahoo.com', '952383889');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jessica', 'Davis', 'Frye', 'andrew24@gmail.com', '955006848');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Isaiah', 'Pham', 'Jones', 'mario56@yahoo.com', '943040348');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Robert', 'Perry', 'Walker', 'tiffanynixon@gmail.com', '905596871');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Tracy', 'Carter', 'Scott', 'mhenderson@hotmail.com', '922179475');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Vernon', 'Cervantes', 'Harris', 'rickykeith@hotmail.com', '968929102');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Roy', 'Oneal', 'Martinez', 'xtaylor@yahoo.com', '915970275');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Haley', 'Roberts', 'Walker', 'millerjared@hotmail.com', '923880509');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Maurice', 'Baker', 'Lawson', 'thomasbenjamin@gmail.com', '958253901');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Christopher', 'Bailey', 'Serrano', 'jessica48@yahoo.com', '930885115');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Rachel', 'Moore', 'Hoffman', 'marvinmiller@gmail.com', '996831310');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Diane', 'Gibson', 'Page', 'kellymichele@gmail.com', '939588539');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Brenda', 'Sweeney', 'Brown', 'sullivananthony@gmail.com', '928698579');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jasmine', 'Dawson', 'Ruiz', 'jennifer15@gmail.com', '984105918');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Wendy', 'Gray', 'Martin', 'douglascarly@gmail.com', '959382249');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jeremy', 'Church', 'Ford', 'wmalone@yahoo.com', '962202803');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Brittany', 'Rice', 'Lewis', 'michael53@hotmail.com', '960797939');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Alexander', 'West', 'Lyons', 'whitechristine@hotmail.com', '969128676');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Tiffany', 'Young', 'Snyder', 'pfreeman@hotmail.com', '987464845');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Debra', 'Walters', 'Moore', 'nancy11@yahoo.com', '996964104');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Isaiah', 'Holt', 'Lawrence', 'ufischer@gmail.com', '912087816');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Luis', 'Martinez', 'Travis', 'wfuller@yahoo.com', '923150820');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Robert', 'Smith', 'Ross', 'grahamkeith@hotmail.com', '968024084');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('William', 'Davidson', 'Bowman', 'courtney87@yahoo.com', '908563875');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Blake', 'May', 'Harrell', 'sdixon@gmail.com', '991994884');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Shannon', 'Bryant', 'Smith', 'ashlee15@hotmail.com', '952820931');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Justin', 'Baldwin', 'Munoz', 'danielrodriguez@gmail.com', '970330426');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('David', 'Drake', 'Nelson', 'masseypeter@hotmail.com', '910281443');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Julie', 'Fleming', 'Patel', 'ihensley@hotmail.com', '940261894');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Scott', 'Green', 'Bowen', 'mercadodonald@hotmail.com', '957740426');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Alyssa', 'Jimenez', 'Holmes', 'twaters@yahoo.com', '966110512');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Allen', 'Knight', 'Chambers', 'amorgan@hotmail.com', '924544730');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Tara', 'Hughes', 'Tyler', 'danielssara@gmail.com', '986966942');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Sarah', 'Vasquez', 'Blair', 'browndustin@yahoo.com', '979145486');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Adam', 'Ball', 'Richards', 'eowens@gmail.com', '937734689');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Jessica', 'Khan', 'Kane', 'amberwalters@yahoo.com', '923625577');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Dylan', 'Frost', 'Stewart', 'wilsongina@hotmail.com', '949218328');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Lisa', 'Williamson', 'Phillips', 'lewisjennifer@yahoo.com', '915301623');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Shannon', 'Robles', 'Chang', 'gwhite@hotmail.com', '967508216');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Brandi', 'Lawson', 'Gallegos', 'markshepherd@hotmail.com', '942777251');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Victor', 'Fisher', 'Nelson', 'smithjeffrey@yahoo.com', '994122402');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Linda', 'Thomas', 'Watson', 'heather79@hotmail.com', '932873177');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('David', 'Morales', 'Stark', 'elizabeth92@gmail.com', '988739676');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Thomas', 'George', 'Barrett', 'hollyjackson@gmail.com', '994693253');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('William', 'Cunningham', 'Schneider', 'rlara@hotmail.com', '905574295');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Molly', 'Petersen', 'Fuentes', 'charles35@gmail.com', '974192555');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Bryan', 'Parker', 'Hall', 'laurahale@yahoo.com', '921808847');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Robin', 'Mullins', 'Mora', 'watsonalexis@hotmail.com', '961100973');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Shawn', 'Harris', 'Calderon', 'aguilarmichelle@gmail.com', '958515575');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Matthew', 'Sparks', 'Sutton', 'cherryjoseph@gmail.com', '926585005');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Sarah', 'Meyer', 'Smith', 'patrick37@yahoo.com', '916179264');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('David', 'Scott', 'King', 'victoriacollins@hotmail.com', '967779026');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Mark', 'Li', 'Ross', 'davidnelson@gmail.com', '913501964');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Shawn', 'Perez', 'Moore', 'pprice@gmail.com', '987557755');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Rhonda', 'Phillips', 'King', 'donald54@hotmail.com', '989965809');
+INSERT INTO alumnos (nombre,apellido_paterno,apellido_materno,correo,numero_emergencia) VALUES
+                              ('Olivia', 'Cooper', 'Mitchell', 'npitts@yahoo.com', '902599141');

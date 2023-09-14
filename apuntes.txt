@@ -8,5 +8,6 @@ pip install flask                         -> instalar libreria flask
 pip list                                  -> listar librerias 
 pip freeze                                -> lista las librerias pero de una manera mas tecnica
 pip freeze > requirements.txt             -> para guardar lista de librerias en doc.txt
+python simulador.py > alumnos.sql         -> para guardar un archivo
 
 pip install -r requirements.txt           -> instalar todas las librerias declaradas en ese archivo
